@@ -9,7 +9,7 @@ class bcolors:
 
 
 # your exel file path
-EXEL_FILE_PATH = r"C:\Users\Mmd\Desktop\BigProject\finalchoices.xlsx"
+EXEL_FILE_PATH = r"PATH"
 
 wb2 = load_workbook(EXEL_FILE_PATH)
 
